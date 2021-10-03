@@ -13,4 +13,5 @@ This repo is an example of a team project repository that meets all of [the repo
 ## Team Information
 Jonah Belback
 * jeb382@pitt.edu
+* Pitt CompEng, 2025
 * Couldn't find anyone lol
