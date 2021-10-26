@@ -6,7 +6,6 @@
 ## Team Information
 Jonah Belback
 * jeb382@pitt.edu
-* Pitt CompEng, 2025
 * Pitt CompEng, spring 2025
 * Couldn't find anyone lol
 
