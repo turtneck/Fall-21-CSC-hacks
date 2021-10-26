@@ -33,9 +33,24 @@ STEPS:
   * EXPLANTION OF MY BULL****
     * sooooooo arduino DOES NOT (or at least idk how) let it read from a .txt file from the uploading computer and i dont have a SD card arduino.
     * therefore i am using c++ to make a FAKE .h CLASS FILE and then loading it into the arduino
-  * run C MAIN
+  * run 'C MAIN'
     * this will make a file in the main folder called 'imgT_data.h'
-  * MANUALLY put this in the 'fakeclass' folder and replace the old file (sorry i suck)
-  * open the 'fakeclass.zip' folder
-  * MANUALLY delete the folder inside
-  * come back to main and put it in the new 'fakeclass' folder
+
+* ARDUINO
+  * open arduino file
+
+  * if this is your first time loading a new image
+    * put the 'imgT_data.h' in a folder called 'fakeclass'
+    * then put that in a zip folder called 'fakeclass'
+    
+    * go to Sketch > Include Library > Add .ZIP Library...
+    * find the zipfile in the browser
+
+  * if this is NOT your first time loading a a new image
+    * MANUALLY go to your ardunio library folder 
+      * usually in (C:\Users\~~~~~~\Documents\Arduino\libraries) if on windows
+      * if not https://support.arduino.cc/hc/en-us/articles/360016077340-How-do-I-delete-or-uninstall-a-library-from-the-IDE-
+    * put the new 'imgT_data.h' in fakeclass folder
+    * say yes to replace it
+
+  * run it
