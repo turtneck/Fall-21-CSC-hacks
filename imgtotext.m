@@ -44,9 +44,9 @@ if option == 0
         for( j = 1:scale)
             
             if( arr(i,j) >= avg )
-                 finarr(i,j) = 255;
+                 finarr(i,j) = 0;
             else
-                finarr(i,j) = 0;
+                finarr(i,j) = 255;
             end
             
         end
