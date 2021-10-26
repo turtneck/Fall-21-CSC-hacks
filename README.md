@@ -1,6 +1,6 @@
 # CSC Hacks Sample Project Repo
 
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9).
+
 
 ## Project Description
 * I want to make a LED display using arduino.
@@ -13,11 +13,11 @@ This repo is an example of a team project repository that meets all of [the repo
 ## Team Information
 Jonah Belback
 * jeb382@pitt.edu
-* Pitt CompEng, 2025
+* Pitt CompEng, spring 2025
 * Couldn't find anyone lol
 
 ## MVP DEMO
-Unfortunately the whole point of making this was to build soem hardware and then export whatever image and video(WIP) i want and display it on an LED grid i made so it wont work unless you have my board
+Unfortunately the whole point of making this was to build some hardware and then export whatever image and video(WIP) i want and display it on an LED grid i made so it wont work unless you have my board
 BUT if anything I made it preview the blk/white image at a scale hardcode in the matlab fiel so you can have fun with that i guess
 
 STEPS:
