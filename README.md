@@ -12,7 +12,7 @@ Jonah Belback
 
 ## MVP DEMO
 Unfortunately the whole point of making this was to build some hardware and then export whatever image and video(WIP) i want and display it on an LED grid i made so it wont work unless you have my board
-BUT if anything I made it preview the blk/white image at a scale hardcode in the matlab fiel so you can have fun with that i guess
+BUT if anything I made it preview the blk/white image at a scale hardcoded in the matlab file so you can have fun with that i guess
 
 STEPS:
 * MATLAB (scaling/coloring image)
